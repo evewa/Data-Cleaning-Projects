@@ -62,3 +62,6 @@ One of my biggest takeaways from this project was learning that cleaning data re
 Writing the SQL query is only part of the process. Before changing a dataset, I need to understand why a record is considered problematic, determine what the appropriate treatment should be, and verify that the transformation produced the intended result.
 
 This project gave me a foundation for approaching SQL more confidently and provided the starting point for applying SQL to more independent analytical projects.
+
+**LINKS**
+[Alex the Analyst's Project repository](https://github.com/AlexTheAnalyst/PortfolioProjects)
